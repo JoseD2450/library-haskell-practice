@@ -48,3 +48,10 @@ Prestamo {bookId = "BK-001", prestamo = 2025-08-10 15:00:00 UTC, devolucion = No
 Prestamo {bookId = "BK-002", prestamo = 2025-08-11 18:30:20 UTC, devolucion = Just 2025-08-12 10:05:00 UTC}
 
 🎥 Video de demostración
+
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
