@@ -5,11 +5,10 @@ Jose David Acevedo
 
 💻 Plataforma(s) utilizadas
 
-GHC 9.x (Glasgow Haskell Compiler)
+Replit
 
-Sistema operativo: Windows 10 / 11
+Sistema operativo: Windows 11
 
-Editor de código: Visual Studio Code con extensión de Haskell
 
 📂 Archivos en este repositorio
 
