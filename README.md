@@ -1,4 +1,8 @@
 📚 ST0244 – Practice I: Library Lending Manager (Haskell)
+VIDEO:
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
+https://youtu.be/7ldxuZvKpsk
 👥 Integrantes
 
 Jose David Acevedo
